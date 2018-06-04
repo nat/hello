@@ -12,3 +12,7 @@ sass:
   style: compressed
   load_paths:
     - node_modules/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
