@@ -10,5 +10,5 @@ exclude:
 sass:
   sass_dir: ./
   style: compressed
-  load_paths:
-    - node_modules/
+
+theme: jekyll-theme-primer
