@@ -1,0 +1,14 @@
+markdown:       kramdown
+kramdown:
+  auto_ids:     true
+encoding:       UTF-8
+exclude:
+  - .git/
+  - package.json
+  - package-lock.json
+  - node_modules
+sass:
+  sass_dir: ./
+  style: compressed
+  load_paths:
+    - node_modules/

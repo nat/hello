@@ -1,0 +1,14 @@
+---
+---
+
+@import "primer-base/index.scss";
+@import "primer-markdown/index.scss";
+@import "primer-layout/index.scss";
+@import "primer-utilities/index.scss";
+
+@media only screen and (max-width: 760px) {
+  .markdown-body {
+    padding: 1em;
+  }
+}
+  
