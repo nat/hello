@@ -13,7 +13,7 @@ I was blown away to discover a free operating system that came with an editor, c
 
 Today I live in San Francisco with my wife and daughter. Two years ago I joined Microsoft when it acquired Xamarin, a developer-focused company I started with Miguel de Icaza. I was delighted to see that Microsoft was broadening its horizons as a developer-centric company by rallying behind technologies like Linux, Git, node, and Kubernetes. Microsoft had become a massive contributor to open source, and was remodeling its engineering culture after the example of open source projects.
 
-I believe Microsoft is the ideal partner for GitHub, and as a developer who loves GitHub, leading its next chapter will be an incredibly exciting opportunity and responsibility. Just as open source helped launch my career, millions of people today depend on GitHub to help them learn, grown, and build amazing things. I'm determined to give that opportunity to millions more around the world.
+I believe Microsoft is the ideal partner for GitHub, and as a developer who loves GitHub, leading its next chapter will be an incredibly exciting opportunity and responsibility. Just as open source helped launch my career, millions of people today depend on GitHub to help them learn, grow, and build amazing things. I'm determined to give that opportunity to millions more around the world.
 
 At the same time, I understand that there is some healthy skepticism in the community, so I wanted to be absolutely clear about two things:
 
