@@ -16,7 +16,7 @@ sass:
 plugins:
   - jekyll-seo-tag
 
-title: "👋  Hello, GitHub"
+title: "👋 Hello, GitHub"
 description: "@natfriedman"
 
 twitter:
