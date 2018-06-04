@@ -15,4 +15,13 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+
+title: "👋  Hello, GitHub"
+description: "@natfriedman"
+
+twitter:
+  username: natfriedman
+
+author:
+  name: Nat Friedman
+  twitter: natfriedman

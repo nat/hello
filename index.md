@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 👋 Hello, GitHub | @natfriedman
 ---
 
 # 👋 Hello, GitHub
