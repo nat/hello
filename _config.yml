@@ -12,9 +12,11 @@ sass:
   style: compressed
 
 theme: jekyll-theme-primer
+jekyll-mentions: https://github.com
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-mentions
 
 title: "👋 Hello, GitHub"
 description: "@natfriedman"
