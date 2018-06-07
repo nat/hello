@@ -22,6 +22,6 @@ At the same time, I understand that there is some healthy skepticism in the comm
 
 I’m not asking for your trust, but I’m committed to earning it. I can’t wait to help make the GitHub platform and community that’s special to all of us even greater.
 
--- [@natfriedman](https://github.com/natfriedman)
+-- @natfriedman
 
 PS: I’ll be doing an AMA on Reddit in the next few days, I hope to see you there!
