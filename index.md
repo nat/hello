@@ -24,4 +24,4 @@ I’m not asking for your trust, but I’m committed to earning it. I can’t wa
 
 -- [@natfriedman](https://github.com/natfriedman)
 
-PS: I did an AMA on Reddit! [Link](https://www.reddit.com/r/AMA/comments/8pc8mf/im_nat_friedman_future_ceo_of_github_ama/)
+PS: I did an [AMA on Reddit](https://www.reddit.com/r/AMA/comments/8pc8mf/im_nat_friedman_future_ceo_of_github_ama/)! 
