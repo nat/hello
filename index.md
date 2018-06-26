@@ -6,7 +6,7 @@ layout: default
 
 The Octocat is out of the bag: GitHub is joining Microsoft and I will become the new CEO when the deal closes later this year. I’m confident that this change will be great for GitHub and developers around the world, and I wanted to take the opportunity to introduce myself.
 
-Who am I? My name is Nat and I’ve been a developer since I was six. I’ve been active in open source since the 90s when I discovered Linux.
+Who am I? My name is Nat and I’ve been a developer since I was six. I’ve been active in open source since the 90s when I discovered GNU/Linux.
 
 I was blown away to discover a free operating system that came with an editor, compiler, and debugger---all of the tools you need to be a developer, and all of the source code! It was an incredible opportunity for a teenager in a small town in Virginia to learn from the best developers in the world. I spent 15 years working with Linux and founded a couple of open source companies. My first commit to GitHub was in 2009, when GitHub was a year old.
 
