@@ -3,14 +3,14 @@
 ## Setup
 
 ```
-gem install bundler
-bundle install
+gem install jekyll
+npm install
 ```
 
 ## Local dev
 
 ```
-bundle exec jekyll serve
+jekyll serve
 ```
 
 Then, open browser to <http://localhost:4000>.

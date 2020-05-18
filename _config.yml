@@ -10,8 +10,8 @@ exclude:
 sass:
   sass_dir: ./
   style: compressed
-
-theme: jekyll-theme-primer
+  load_paths:
+    - node_modules/
 
 plugins:
   - jekyll-seo-tag
